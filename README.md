@@ -1,0 +1,2 @@
+# LetterCounter
+ Small javascript proje
